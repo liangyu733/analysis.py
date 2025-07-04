@@ -1,0 +1,20 @@
+# 忽略虛擬環境
+venv/
+
+# 忽略 VSCode 設定（如果你使用 VSCode）
+.vscode/
+
+# 忽略 Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# 忽略 __pycache__ 編譯檔
+__pycache__/
+
+# 忽略 Python 暫存檔
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# 忽略大型資料或私密資料（依情況調整）
+data/
